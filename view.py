@@ -1,2 +1,2 @@
 def show_price(price):
-    print(price)
+    print(f"Gesamtbetrag: {price:.2f}€")
